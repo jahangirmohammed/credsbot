@@ -13,5 +13,6 @@ Usage:
 2. Add bot(https://api.slack.com/bot-users) to Slack. 
 3. 1. git clone https://github.com/jahangirmohammed/credsbot.git.
    2. Create a file called all.creds like example.creds(https://github.com/jahangirmohammed/credsbot/blob/master/src/main/resources/example.creds) 
-   in src/main/resources.
+    in src/main/resources.
    3. In all.creds file, Add API token of the bot created and Vault's IP address, root_token.
+   4. Run CredsBot Application.
