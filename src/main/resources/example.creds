@@ -1,0 +1,6 @@
+# API Token
+api.token = "xxxxxxxxxxxxxxxx"
+
+#Vault config
+vault.address = "xxxxxxxxxxxxxxxx"
+vault.root-token = "xxxxxxxxxxxxxxxx"
